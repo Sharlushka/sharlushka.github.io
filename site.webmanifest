@@ -3,17 +3,12 @@
     "short_name": "Sharlushka",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png?v=XBJjA6Qfg",
+            "src": "/android-chrome-192x192.png?v=wAXgRQFfG",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-256x256.png?v=XBJjA6Qfg",
-            "sizes": "256x256",
-            "type": "image/png"
-        },
-        {
-          "src": "/android-chrome-512x512.png?v=XBJjAdQfg",
+          "src": "/android-chrome-512x512.png?v=wAXgRQFfG",
           "sizes": "512x512",
           "type": "image/png"
       }
