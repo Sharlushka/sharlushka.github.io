@@ -1,2 +1,0 @@
-webpackJsonp([0],{stGB:function(t,e,n){"use strict";var s={name:"CloseBtn"},r=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("v-flex",{staticClass:"text-xs-right"},[n("v-btn",{attrs:{small:"",icon:"",fab:"",dark:""},on:{click:function(e){t.$router.go(-1)}}},[n("v-icon",{attrs:{size:"3em",color:"#79008f"}},[t._v("close")])],1)],1)},l=[],c={render:r,staticRenderFns:l},a=c,o=n("VU/8"),i=o(s,a,!1,null,null,null);e.a=i.exports}});
-//# sourceMappingURL=0.0f2c3e5f3f62fd6818d1.js.map
