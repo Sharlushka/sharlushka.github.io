@@ -1,0 +1,5 @@
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
+
+/*! exports provided: VueOfflineMixin, VueOfflineStorage, VueOfflinePlugin, default */

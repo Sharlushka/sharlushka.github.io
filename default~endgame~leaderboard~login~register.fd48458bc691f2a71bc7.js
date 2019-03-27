@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{Hfx9:function(s,n,t){"use strict";var e=t("Wcq6"),a=t.n(e);t("5x/H");a.a.firestore().settings({timestampsInSnapshots:!0}),n.a=a.a.firestore()}}]);
-//# sourceMappingURL=default~endgame~leaderboard~login~register.fd48458bc691f2a71bc7.js.map
